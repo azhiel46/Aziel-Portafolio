@@ -2,12 +2,12 @@ export const products = [
     {
       id: 1,
       img: "https://raw.githubusercontent.com/azhiel46/Fotos/main/Img/ContadorClicks.png",
-      link: "https://polite-rolypoly-9725e1.netlify.app/",
+      link: "https://contador-de-clicks-reactjs.netlify.app/",
     },
     {
       id: 2,
       img: "https://raw.githubusercontent.com/azhiel46/Fotos/main/Img/CalcuReact.png",
-      link: "https://willowy-cuchufli-d47c23.netlify.app/",
+      link: "https://calculadora-inteligente-reactjs.netlify.app/",
     },
     {
       id: 3,
