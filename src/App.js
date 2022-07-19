@@ -1,5 +1,6 @@
 //Importar Componentes
 import Intro from './Components/intro/Intro';
+import About from './Components/About/About';
 import ProductList from './Components/Products/ProductList';
 import Contact from './Components/Contact/Contact';
 import Toggle from './Components/Toggle/Toggle';
@@ -16,6 +17,7 @@ function App() {
     <div style={{ backgroundColor:darkMode ? '#222' : 'white', color:darkMode && 'white' }}>
         <Toggle />
         <Intro />
+        <About/>
         <ProductList />
         <Contact/>
     </div>
