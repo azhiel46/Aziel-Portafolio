@@ -5,9 +5,21 @@
   .a-desc{
     padding-left: 15px;
     font-weight: 300;
+    display: flex;
+    justify-content: center;
 }
 
 .position {
     display: flex;
     align-items: center;
+    justify-content: center;
+}
+
+.container {
+  flex-direction: column;
+}
+
+.skills {
+  display: flex;
+  justify-content: space-evenly;
 }

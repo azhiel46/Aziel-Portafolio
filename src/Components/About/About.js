@@ -26,7 +26,7 @@ const About = () => {
                     Skills: proactive, leading, self-taught, responsible, creative, agile adaptation and learning, organized and I like to work as a team.
                 </p>
 
-                <h1 className="a-title">Skills</h1>
+                <h1 className="a-title-s">Skills</h1>
 
                 <div className="s">
                     <div>

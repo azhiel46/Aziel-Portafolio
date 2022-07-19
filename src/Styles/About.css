@@ -55,8 +55,10 @@
   .a-desc{
       font-weight: 300;
   }
-  .s {
-
+  
+  .a-title-s {
+    font-weight: 400;
+    padding-top: 20px;
   }
   
   @media screen and (max-width:480px) {
@@ -74,7 +76,7 @@
         height: 30vh;
       }
   
-      .a-card.bg, .a-award {
+      .a-title, .s {
         display: none;
       }
   
