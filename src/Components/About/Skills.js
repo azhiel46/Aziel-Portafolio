@@ -52,7 +52,7 @@ function Skills() {
                     <GitHubIcon />
                     <p className="a-sub">Git</p>
                 </div>
-                <p className="a-desc"> Basic</p>
+                <p className="a-desc"> Intermediate </p>
             </div>
 
         </div>

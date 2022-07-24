@@ -10,11 +10,10 @@ function ProductList() {
 
     <div className="pl">
       <div className='pl-text'>
-        <h1 className='pl-title'>Create & Inspire. Its lama</h1>
+        <h1 className='pl-title'>Create & Practice.</h1>
         <p className='pl-desc'>
-          There are many variations of passages of Lorem Ipsum available, but the majority,
-          or randomised words which don't look even slightly believable.
-          you need to be sure there isn't anything
+          These are some of my personal projects, with this i practiced what i know and try to use some new technologies
+          and improve my skills.
         </p>
       </div>
 

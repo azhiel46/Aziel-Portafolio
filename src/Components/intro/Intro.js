@@ -10,7 +10,7 @@ function Intro() {
 
       <div className='introLeft'>
         <div className='i-left-wrapper'>
-          <h2 className='i-intro'>Hola, Mi Nombre es </h2>
+          <h2 className='i-intro'>Hello, My Name Is </h2>
           <h1 className='i-name'>Aziel B Ocampo </h1>
 
           <div className='i-title'>
@@ -27,7 +27,21 @@ function Intro() {
             or randomised words which don't look even slightly believable.f you are going to Lorem Ipsum,
             you need to be sure there isn't anything embarrassing hidden in the middle of text.
           </p>
+
+          <div className='btn-flex'>
+            <button className='boton-cv'>
+              <a className='boton-cv' href='./CvAziel.pdf' download>
+                Download CV
+              </a>
+            </button>
+          </div>
+
+
+
+
+
         </div>
+
         <svg
           width="75"
           height="75"

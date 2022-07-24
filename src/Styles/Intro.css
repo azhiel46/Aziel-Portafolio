@@ -94,7 +94,24 @@
     font-size: 20px
 }
 
+.boton-cv {
+    text-decoration: none;
+    color: white;
+    width: 20%;
+    margin-top: 10px;
+}
+
+.btn-flex {
+    display: flex;
+    justify-content: center;
+}
+
+
 @media screen and (max-width: 480px) {
+    .boton-cv {
+        display: none;
+    }
+
     .introSections {
         flex-direction: column;
     }
@@ -110,4 +127,9 @@
     .description {
         display: none;
     }
+
+    .boton-cv {
+        flex-direction: column;
+    }
 }
+
