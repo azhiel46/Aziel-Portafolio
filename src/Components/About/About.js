@@ -17,9 +17,9 @@ const About = () => {
             </div>
             <div className="a-right">
                 <h1 className="a-title">About Me</h1>
+
                 <p className="a-sub">
-                    It is a long established fact that a reader will be distracted by the
-                    readable content.
+                    You want to know about me?, let me explain you!
                 </p>
                 <p className="a-desc">
                     Software engineering student with a 6 month work experience in the area. I'm looking to develop and expand my knowledges with the aim of quick, efficient and effective work.
@@ -30,10 +30,10 @@ const About = () => {
 
                 <div className="s">
                     <div>
-                        <Skills/>
+                        <Skills />
                     </div>
                 </div>
-                
+
             </div>
         </div>
     );

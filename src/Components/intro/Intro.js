@@ -2,8 +2,6 @@ import React from 'react';
 import '../../Styles/Intro.css';
 import Person from '../../Img/person.png';
 
-
-
 function Intro() {
   return (
     <div className="introSections">
@@ -23,9 +21,10 @@ function Intro() {
           </div>
 
           <p className='description'>
-            There are many variations of passages of Lorem Ipsum available, but the majority,
-            or randomised words which don't look even slightly believable.f you are going to Lorem Ipsum,
-            you need to be sure there isn't anything embarrassing hidden in the middle of text.
+            Hi, my name is Aziel B Ocampo, this is part of what i done, i practice everyday to improve my skills and
+            try to learn about new technologys and do a best preject's or improve the olders.
+            I learn by myself and i like work in team and share our knowledge.
+            Thasts me!.
           </p>
 
           <div className='btn-flex'>
@@ -35,11 +34,6 @@ function Intro() {
               </a>
             </button>
           </div>
-
-
-
-
-
         </div>
 
         <svg
