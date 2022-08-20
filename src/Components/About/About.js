@@ -19,7 +19,7 @@ const About = () => {
                 <h1 className="a-title">About Me</h1>
 
                 <p className="a-sub">
-                    You want to know about me?, let me explain you!
+                    You want to know about me?, let me explain!
                 </p>
                 <p className="a-desc">
                     Software engineering student with a 6 month work experience in the area. I'm looking to develop and expand my knowledges with the aim of quick, efficient and effective work.
