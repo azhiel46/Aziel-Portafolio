@@ -1,35 +1,35 @@
-import React from 'react';
-import '../../Styles/Intro.css';
-import Person from '../../Img/person.png';
+import React from "react";
+import "../../Styles/Intro.css";
+import Person from "../../Img/person.png";
 
 function Intro() {
   return (
     <div className="introSections">
+      <div className="introLeft">
+        <div className="i-left-wrapper">
+          <h2 className="i-intro">Hello, My Name Is </h2>
+          <h1 className="i-name">Aziel B Ocampo </h1>
 
-      <div className='introLeft'>
-        <div className='i-left-wrapper'>
-          <h2 className='i-intro'>Hello, My Name Is </h2>
-          <h1 className='i-name'>Aziel B Ocampo </h1>
-
-          <div className='i-title'>
-            <div className='i-title-wrapper'>
-              <div className='i-title-item'>Software Engineer</div>
-              <div className='i-title-item'>Web Developer</div>
-              <div className='i-title-item'>Frontend Developer</div>
+          <div className="i-title">
+            <div className="i-title-wrapper">
+              <div className="i-title-item">Software Engineer</div>
+              <div className="i-title-item">Web Developer</div>
+              <div className="i-title-item">Frontend Developer</div>
               {/* <div className='i-title-item'>Backend Developer</div> */}
             </div>
           </div>
 
-          <p className='description'>
-            Hi, my name is Aziel B Ocampo, this is part of what i done, i practice everyday to improve my skills and
-            try to learn about new technologys and do a best preject's or improve the olders.
-            I learn by myself and i like work in team and share our knowledge.
-            Thasts me!.
+          <p className="description">
+            Hi, my name is Aziel B Ocampo, this is part of what i done, i
+            practice everyday to improve my skills and try to learn about new
+            technologys and do a best preject's or improve the olders. I learn
+            by myself and i like work in team and share our knowledge. Thasts
+            me!.
           </p>
 
-          <div className='btn-flex'>
-            <button className='boton-cv'>
-              <a className='boton-cv' href='./CvAziel.pdf' download>
+          <div className="btn-flex">
+            <button className="boton-cv">
+              <a className="boton-cv" href="./CvAziel.pdf" download>
                 Download CV
               </a>
             </button>
@@ -94,11 +94,10 @@ function Intro() {
         </svg>
       </div>
 
-      <div className='introRight'>
-        <div className='i-bg'></div>
-        <img src={Person} alt='' className='i-image' />
+      <div className="introRight">
+        <div className="i-bg"></div>
+        <img src={Person} alt="" className="i-image" />
       </div>
-
     </div>
   );
 }
