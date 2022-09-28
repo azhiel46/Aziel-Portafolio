@@ -26,7 +26,7 @@ export const products = [
     },
     {
       id: 6,
-      img: "",
-      link: "http://lama.dev",
+      img: "https://raw.githubusercontent.com/azhiel46/Fotos/main/Img/FceIa.png",
+      link: "https://face-detection-with-faceapi.netlify.app/",
     },
   ];
