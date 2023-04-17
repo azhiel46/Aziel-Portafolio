@@ -29,7 +29,7 @@ function Intro() {
 
           <div className="btn-flex">
             <button className="boton-cv">
-              <a className="boton-cv" href="./Aziel B Ocampo, Software Enginieer.pdf" download>
+              <a className="boton-cv" href="./Aziel B Ocampo, Ingeniero de Software.pdf" download>
                 Download CV
               </a>
             </button>
