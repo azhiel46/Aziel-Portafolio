@@ -1,7 +1,6 @@
 import Skills from "./Skills";
 import "../../Styles/About.css";
 
-
 const About = () => {
     return (
         <div className="a">
