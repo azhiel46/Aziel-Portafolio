@@ -18,8 +18,6 @@ function Skills() {
                 <p className="a-desc"> Basic</p>
             </div>
 
-
-
             <div className='container'>
                 <div className="position">
                     <HtmlIcon />
@@ -37,7 +35,6 @@ function Skills() {
                 <p className="a-desc"> Intermediate</p>
             </div>
 
-
             <div className='container'>
                 <div className="position">
                     <JavascriptIcon />
@@ -45,7 +42,6 @@ function Skills() {
                 </div>
                 <p className="a-desc"> Basic</p>
             </div>
-
 
             <div className='container'>
                 <div className="position">
