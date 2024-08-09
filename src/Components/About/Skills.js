@@ -8,7 +8,6 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 function Skills() {
 
     return (
-
         <div className='skills'>
             <div className='container'>
                 <div className="position">
@@ -52,7 +51,6 @@ function Skills() {
             </div>
 
         </div>
-
     );
 }
 
